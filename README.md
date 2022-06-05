@@ -9,6 +9,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasonovIvan&layout=compact)](https://github.com/NasonovIvan/github-readme-stats)
 
-<h1 align="left">Contacts.</a></h1>
+<h3 align="left">Contacts.</a></h3>
+
 - Telegram: @kyneshal
 - Email: nasonov.ia18@physics.msu.ru
