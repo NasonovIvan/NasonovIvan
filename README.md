@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Nasonov Ivan.</a>
+<h1 align="center">Hi there, I'm Nasonov Ivan.</a></h1>
+
 I am studying Master of Science at Moscow State University at faculty of Physic.
  
 - Degree of Bachelor in the field of study Physics Lomonosov Moscow State University (2018-2022)
