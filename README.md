@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ivan.</a></h1>
+<h1 align="center">Hi there, I'm Ivan</a></h1>
 
 I am studying Master of Science at Moscow State University at faculty of Physic.
  
