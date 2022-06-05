@@ -13,3 +13,4 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 
 - Telegram: @kyneshal
 - Email: nasonov.ia18@physics.msu.ru
+- Slack: @kyneshal
