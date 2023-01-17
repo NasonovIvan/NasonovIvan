@@ -23,6 +23,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=ROTI-map-prediction&show_icons=true&line_height=29&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ROTI-map" />
 </a>
 
+
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE problem" />
 </a>
