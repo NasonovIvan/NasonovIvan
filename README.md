@@ -16,8 +16,8 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
@@ -28,7 +28,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 </a>
 
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE problem" />
 </a>
 
 <h3 align="left">Contacts</a></h3>
