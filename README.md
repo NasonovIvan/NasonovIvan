@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan</a></h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NasonovIvan.NasonovIvan)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 I am studying Master of Science at Moscow State University at faculty of Physic.
@@ -16,8 +16,8 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
