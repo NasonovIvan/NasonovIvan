@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Ivan</a></h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NasonovIvan.NasonovIvan)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 I am studying Master of Science at Moscow State University at faculty of Physic.
  
 - Degree of Bachelor in the field of study Physics Lomonosov Moscow State University (2018-2022)
@@ -10,7 +7,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 - School 21 student (2022 - Current)
 - Specialization Deep Learning Coursera. Field of study: Information and Communication Technologies (02/2020 – 05/2020)
 
-## 🔧 Technologies & Tools
+### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -19,9 +16,8 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-## 🗂️ Highlight Projects
+### Highlight Projects
 
 <a href="https://github.com/NasonovIvan/ROTI-map-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=ROTI-map-prediction&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ROTI-map" />
@@ -36,3 +32,8 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 - Telegram: @kyneshal
 - Email: nasonov.ia18@physics.msu.ru
 - Slack: @kyneshal
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/NasonovIvan/count.svg" />
+</p>
