@@ -27,7 +27,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/NasonovIvan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasonovIvan&layout=compact&hide_border=true" /></a>
 
 <h3 align="left">Contacts</a></h3>
 
