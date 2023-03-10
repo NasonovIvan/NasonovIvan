@@ -3,7 +3,7 @@
 I am studying Master of Science.
  
 - Degree of Bachelor in the field of study Physics
-- Data Scientist in the Institute of Control Sciences of Russian Academy of Sciences (2021 - Current)
+- Data Scientist in the Institute of Control Sciences of RAS (2021 - Current)
 - School 21 student (2022 - Current)
 - Specialization Deep Learning Coursera. Field of study: Information and Communication Technologies (02/2020 – 05/2020)
 
