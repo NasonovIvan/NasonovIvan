@@ -16,8 +16,8 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,11 +31,11 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=ROTI-map-prediction&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ROTI-map" />
 </a>
 <a href="https://github.com/NasonovIvan/Smart-Calc-C">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Smart-Calc-C&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart-Calc" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Smart-Calc-C&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart-Calc" />
 </a>
 
 <a href="https://github.com/NasonovIvan/3D-Viewer">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=3D-Viewer&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3D-Viewer" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=3D-Viewer&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3D-Viewer" />
 </a>
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE-problem" />
