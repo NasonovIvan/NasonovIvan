@@ -32,7 +32,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 </a>
 
 <a href="https://github.com/NasonovIvan/Smart-Calc-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Smart-Calc-C&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart-Calc" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Smart-Calc-C&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart-Calc" />
 </a>
 
 <a href="https://github.com/NasonovIvan/3D-Viewer">
@@ -40,7 +40,7 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 </a>
 
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE-problem" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE-problem" />
 </a>
 
 <a href="https://github.com/NasonovIvan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasonovIvan&layout=compact&hide_border=true" /></a>
