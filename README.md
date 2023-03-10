@@ -3,7 +3,7 @@
 I am studying Master of Science at Moscow State University at faculty of Physic.
  
 - Degree of Bachelor in the field of study Physics Lomonosov Moscow State University (2018-2022)
-- Engineer Institute of Control Sciences of Russian Academy of Sciences (2021 - Current)
+- Data Scientist in the Institute of Control Sciences of Russian Academy of Sciences (2021 - Current)
 - School 21 student (2022 - Current)
 - Specialization Deep Learning Coursera. Field of study: Information and Communication Technologies (02/2020 – 05/2020)
 
@@ -16,14 +16,23 @@ I am studying Master of Science at Moscow State University at faculty of Physic.
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### Highlight Projects
 
 <a href="https://github.com/NasonovIvan/ROTI-map-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=ROTI-map-prediction&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ROTI-map" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=ROTI-map-prediction&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ROTI-map" />
 </a>
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE-problem" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=pursuit-evasion-problem&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PE-problem" />
+</a>
+
+<a href="https://github.com/NasonovIvan/3D-Viewer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=3D-Viewer&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3D-Viewer" />
+</a>
+<a href="https://github.com/NasonovIvan/Smart-Calc-C">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Smart-Calc-C&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart-Calc" />
 </a>
 
 
