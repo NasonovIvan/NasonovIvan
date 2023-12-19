@@ -48,7 +48,7 @@ I am studying Master of Science.
 
 <h3 align="left">Contacts</a></h3>
 
-- Telegram: @kyneshal
+- Telegram: @naconov
 - Email: nasonov.ia18@physics.msu.ru
 - Slack: @kyneshal
 
