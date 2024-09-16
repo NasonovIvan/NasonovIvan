@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Ivan</a></h1>
+<h1 align="center">Hi there, I'm Ivan - MLE</a></h1>
 
-I am studying Master of Science.
- 
+- Degree of Master in the field of study Physics
 - Degree of Bachelor in the field of study Physics
-- Data Scientist in the Institute of Control Sciences of RAS (2021 - Current)
+- RecSys in Wildberries (e-commerce) (2023 - current)
+- Data Scientist in the Institute of Control Sciences of RAS (2021 - 2023)
 - School 21 student (2022 - Current)
 - Specialization Deep Learning Coursera. Field of study: Information and Communication Technologies (02/2020 – 05/2020)
 
