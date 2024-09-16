@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ivan - MLE</a></h1>
+<h1 align="center">Hi there, I'm Ivan</a></h1>
+
+ML Engineer
 
 - Degree of Master in the field of study Physics
 - Degree of Bachelor in the field of study Physics
