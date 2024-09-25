@@ -34,7 +34,7 @@ ML Engineer
 </a>
 
 <a href="https://github.com/NasonovIvan/NN-whale-recognition">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=NN-whale-recognition&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NN-whale-recognition" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=NN-whale-recognition&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NNSoundRecognition" />
 </a>
 
 <a href="https://github.com/NasonovIvan/3D-Viewer">
