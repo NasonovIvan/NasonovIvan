@@ -6,7 +6,7 @@ ML Engineer
 - RecSys in Wildberries (e-commerce) (2023 - 2024)
 - Data Scientist in the Institute of Control Sciences of RAS (2021 - 2023)
 - Bachelor and Master in the field of study Physics
-- School 21 student (2022 - Current)
+- School 21 student (2022 - 2024)
 - Specialization Deep Learning Coursera. Field of study: Information and Communication Technologies (02/2020 – 05/2020)
 
 ### Technologies & Tools
