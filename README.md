@@ -37,8 +37,8 @@ ML Engineer
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=NNSoundRecognition&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NNSoundRecognition" />
 </a>
 
-<a href="https://github.com/NasonovIvan/3D-Viewer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=3D-Viewer&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="3D-Viewer" />
+<a href="https://github.com/NasonovIvan/Financial-Assistant">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NasonovIvan&repo=Financial-Assistant&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Financial-Assistant" />
 </a>
 
 <a href="https://github.com/NasonovIvan/pursuit-evasion-problem">
